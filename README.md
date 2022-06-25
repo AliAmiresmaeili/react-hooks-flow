@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Sample Project to show react hooks flow
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
